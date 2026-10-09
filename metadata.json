@@ -1,0 +1,6 @@
+{
+  "name": "I.S CleanCare",
+  "description": "Professional water tank cleaning and solar plate wash service in Faisal Town, B Block.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
